@@ -1,4 +1,4 @@
 // module mypackage
-module github.com/fengsh998/mypackage/v1.0.1
+module github.com/fengsh998/mypackage
 
 go 1.22.1
